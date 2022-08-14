@@ -1,7 +1,9 @@
 # README
-個人練習用リポジトリ
 This README would normally document whatever steps are necessary to get the
 application up and running.
+
+## 概要
+個人練習用リポジトリ
 
 Things you may want to cover:
 
